@@ -6,6 +6,10 @@ POST http://localhost:3000/users
 Content-Type: application/json
 
 {
-    "name": "Riya",
-    "age": 26
+    "name": "Sasuke",
+    "age": 35
 }
+
+###
+
+DELETE http://localhost:3000/users/6687e5db846252fbefbea54e
